@@ -3,3 +3,5 @@
 </br>
 Локально, файлы можно открыть в [Visual Studio Code](https://code.visualstudio.com/) или в Jupyter Notebook через [Anaconda Navigator](https://www.anaconda.com/download). </br>
 Во время лекций, работали именно в Jupyter Notebook - довольно удобный инструмент, для формата обучения.
+</br>
+Решения Домашних заданий будут выкладываться по мере продвижения обучения.
