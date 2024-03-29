@@ -3,7 +3,7 @@
 Так же, будут дополнения и заметки, взятые с курса Python для начинающих на базе [code-basics.com](https://code-basics.com/ru/languages/python) (проект команды [Хекслета](https://ru.hexlet.io/)).</br>
 </br>
 Локально, файлы можно открыть в [Visual Studio Code](https://code.visualstudio.com/) или в Jupyter Notebook через [Anaconda Navigator](https://www.anaconda.com/download).</br>
-Во время лекций, работали именно в Jupyter Notebook - довольно удобный инструмент, для формата обучения.</br>
+Во время лекций, работали в Jupyter Notebook, поэтому здесь решил оставить исходный формат.</br>
 </br>
 Решения Домашних заданий будут выкладываться по мере продвижения обучения.</br>
 </br>
