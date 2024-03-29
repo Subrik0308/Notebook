@@ -79,4 +79,5 @@ python lesson part 6:
 - Библиотека Matplotlib
 - Введение в Pandas
 - Описательные статистики в Python
+- Pandas - работа с несколькими файлами
 ```
