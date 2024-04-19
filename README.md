@@ -3,7 +3,7 @@
 Дополнения к материалу и некоторые примеры, взяты с курса Python для начинающих от [code-basics.com](https://code-basics.com/ru/languages/python) (проект команды [Хекслета](https://ru.hexlet.io/)).</br>
 </br>
 Локально, файлы можно открыть в [Visual Studio Code](https://code.visualstudio.com/) или в Jupyter Notebook через [Anaconda Navigator](https://www.anaconda.com/download).</br>
-Большую часть лекций работали в Jupyter Notebook v. 6.5.4.</br>
+Большую часть лекций, работали в Jupyter Notebook v. 6.5.4.</br>
 </br>
 Содержание файлов.</br>
 </br>
