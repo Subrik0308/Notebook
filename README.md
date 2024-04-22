@@ -1,14 +1,10 @@
 Основной материал взят с курса "Python для начинающих" от Ростелекома (стартовал 29.01.2024, завершён 22.04.2024).</br>
-</br>
 Дополнения к материалу и некоторые примеры, взяты с курса Python для начинающих от [code-basics.com](https://code-basics.com/ru/languages/python) (проект команды [Хекслета](https://ru.hexlet.io/)).</br>
 </br>
-Материал будет мною дополняться, по мере прохождения дальнейшего обучения.</br>
-</br>
-Локально, файлы можно открыть в [Visual Studio Code](https://code.visualstudio.com/) или в Jupyter Notebook через [Anaconda Navigator](https://www.anaconda.com/download).</br>
+Локально, файлы открываются в [Visual Studio Code](https://code.visualstudio.com/) или в Jupyter Notebook через [Anaconda Navigator](https://www.anaconda.com/download).</br>
 Большую часть лекций, работали в Jupyter Notebook v. 6.5.4.</br>
 </br>
-Содержание файлов.</br>
-</br>
+Содержание файлов:</br>
 ```
 python lesson part 1:
 - Знакомство с Jupyter Notebook и форматирования текста с использованием Markdown
