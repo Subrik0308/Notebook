@@ -2,7 +2,6 @@
 Дополнения к материалу и некоторые примеры, взяты с курса Python для начинающих от [code-basics.com](https://code-basics.com/ru/languages/python) (проект команды [Хекслета](https://ru.hexlet.io/)).</br>
 </br>
 Локально, файлы открываются в [Visual Studio Code](https://code.visualstudio.com/) или в Jupyter Notebook через [Anaconda Navigator](https://www.anaconda.com/download).</br>
-Большую часть курса работали в Jupyter Notebook v. 6.5.4. (после окончания курса, адаптировал файлы по v. 7.0.8)</br>
 </br>
 Содержание файлов:</br>
 ```
