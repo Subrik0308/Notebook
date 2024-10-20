@@ -2,8 +2,8 @@
 [Академия Информационных Систем (АИС)](https://www.infosystems.ru/)</br>
 2024 г.</br>
 </br>
-Дополнения к материалу с курса и некоторые примеры, взяты с курса "Python для начинающих" от [code-basics.com](https://code-basics.com/ru/languages/python) (проект команды [Хекслета](https://ru.hexlet.io/)), который проходил примерно в то же время.</br>
-</br>
+Собран и немного переработан материал с курса.</br>
+Дополнения и некоторые примеры, взяты с курса "Python для начинающих" от [code-basics.com](https://code-basics.com/ru/languages/python) (проект команды [Хекслета](https://ru.hexlet.io/)), который проходил примерно в то же время.</br>
 Материал так же дополнен в процессе обучения на курсе "Программная инженерия. Разработка ПО (Python для продвинутых специалистов. Машинное обучение)" от [Университета Иннополис](https://unionepro.ru/) (осень 2024 г.).</br>
 </br>
 Для локальной работы - [Visual Studio Code](https://code.visualstudio.com/). Обучение проходило в Jupyter Notebook [(Anaconda Navigator)](https://www.anaconda.com/download), отсюда и формат материала.</br>
